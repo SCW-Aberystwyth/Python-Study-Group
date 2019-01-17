@@ -15,3 +15,6 @@ No, this is intended for anyone with at least basic knowledge of Python. Those w
 
 ## I don't know any Python but would like to learn some
 There is a Python workshop on [February 6th and 13th](https://www.eventbrite.com/e/introduction-to-plotting-with-python-tickets-53543320513). The study group is aimed at people who know at least what was covered by this course.
+
+## I need help with a specific problem in my Python code.
+This is best answered at [Hacky Hour](http://tinyurl.com/HackyHourAber) instead of the study group. Hacky Hour runs on alternate weeks to the study group and is intended for getting help with any research computing related problems, including Python programming.
