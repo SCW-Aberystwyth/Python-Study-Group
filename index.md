@@ -8,7 +8,7 @@ A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python pr
 * The dates for the Lent term of 2019 are February 1st, 15th, March 1st, March 15th and March 29th.
 
 ## How does it work?
-At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan] for a list of sessions currently planned. 
+At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan](plan) for a list of sessions currently planned. 
 
 ## Do I need to be a Python expert to attend?
 No, this is intended for anyone with at least basic knowledge of Python. Those with more advanced knowledge are invited to attend and share what they know with the group. 
