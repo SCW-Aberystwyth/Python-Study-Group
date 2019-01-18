@@ -18,7 +18,7 @@
 * anaconda/conda
 * notebooks
 
-# Things we already know about
+# Session Plan
 
 | Date | Name | Topic |
 | ---- | ---- | ----- |
