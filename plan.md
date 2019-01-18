@@ -25,6 +25,6 @@
 | 1st Feb | Max (maf54) | Plotting with Maplotlib |
 | 15th Feb | Richard (rig12) | basic debugging |
 | 1st March | Colin (cos) |  problem solving from Rosalind |
-| 15th March | Max (maf54)  Unit testing |
+| 15th March | Max (maf54) | Unit testing |
 | 29th March | Colin (cos) | structuring code |
 | (tbc) | Max (maf54) |  List/Dictionary comprehensions and generators |
