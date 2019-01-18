@@ -16,6 +16,7 @@ zen of python
 databases
 package management, pip and virtualenv
 anaconda/conda
+notebooks
 
 # Things we already know about
 
