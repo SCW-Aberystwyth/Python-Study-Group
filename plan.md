@@ -15,6 +15,7 @@ structuring code, pep8
 zen of python
 databases
 package management, pip and virtualenv
+anaconda/conda
 
 # Things we already know about
 
