@@ -14,6 +14,7 @@ unit testing
 structuring code, pep8 
 zen of python
 databases
+package management, pip and virtualenv
 
 # Things we already know about
 
