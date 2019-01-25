@@ -17,6 +17,7 @@
 * package management, pip and virtualenv
 * anaconda/conda
 * notebooks
+* machine learning with scikitlearn 
 
 # Session Plan
 
@@ -28,3 +29,4 @@
 | 15th March | Max (maf54) | Unit testing |
 | 29th March | Colin (cos) | structuring code |
 | (tbc) | Max (maf54) |  List/Dictionary comprehensions and generators |
+| (tbc) | Osian (odr1) | Machine learning with SciKitLearn |
