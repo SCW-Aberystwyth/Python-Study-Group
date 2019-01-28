@@ -1,3 +1,16 @@
+# Session Plan
+
+| Date | Name | Topic |
+| ---- | ---- | ----- |
+| 31st Jan | Max (maf54) | Plotting with Maplotlib |
+| 15th Feb | Richard (rig12) | basic debugging |
+| 1st March | Colin (cos) |  problem solving from Rosalind |
+| 15th March | Max (maf54) | Unit testing |
+| 29th March | Colin (cos) | structuring code |
+| (tbc) | Max (maf54) |  List/Dictionary comprehensions and generators |
+| (tbc) | Osian (odr1) | Machine learning with SciKitLearn |
+
+
 # Things we want to know more about
 
 * Matplotlib 
@@ -18,15 +31,3 @@
 * anaconda/conda
 * notebooks
 * machine learning with scikitlearn 
-
-# Session Plan
-
-| Date | Name | Topic |
-| ---- | ---- | ----- |
-| 31st Jan | Max (maf54) | Plotting with Maplotlib |
-| 15th Feb | Richard (rig12) | basic debugging |
-| 1st March | Colin (cos) |  problem solving from Rosalind |
-| 15th March | Max (maf54) | Unit testing |
-| 29th March | Colin (cos) | structuring code |
-| (tbc) | Max (maf54) |  List/Dictionary comprehensions and generators |
-| (tbc) | Osian (odr1) | Machine learning with SciKitLearn |
