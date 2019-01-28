@@ -2,7 +2,7 @@
 
 * Matplotlib 
 * Seaborn
-* MPI (see [Parallel processing for HPC course](https://www.eventbrite.com/e/parallel-processing-for-high-performance-computing-tickets-53536370726))
+* MPI
 * Generators
 * list/dictionary comprehensions
 * lambdas
@@ -23,7 +23,7 @@
 
 | Date | Name | Topic |
 | ---- | ---- | ----- |
-| 1st Feb | Max (maf54) | Plotting with Maplotlib |
+| 31st Jan | Max (maf54) | Plotting with Maplotlib |
 | 15th Feb | Richard (rig12) | basic debugging |
 | 1st March | Colin (cos) |  problem solving from Rosalind |
 | 15th March | Max (maf54) | Unit testing |
