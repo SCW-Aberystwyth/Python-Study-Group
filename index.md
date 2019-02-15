@@ -4,7 +4,6 @@
 A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python programming language in their research. The group aims to offer peer support to help explore the many useful features of Python and go beyond the basics.
 
 ## When/where does the group meet?
-* On Thursday January 31st we're meeting at 3:10 pm in the [G24 computer room](https://www.aber.ac.uk/en/timetable/zones/penglais/cledwyn/g24/).
 * After this we'll meet every other Friday at 3:10pm in the [C66 computer room](https://www.aber.ac.uk/en/timetable/zones/penglais/hugh-owen/c66/) in the Hugh Owen building.
 * The dates for the rest of the 2019 Lent term are Fridays February 15th, March 1st, March 15th and March 29th.
 
