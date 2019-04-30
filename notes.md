@@ -9,8 +9,12 @@ Notes and examples [https://git.friedersdorff.com/max/plotting_with_matplotlib.g
 
 # Problems from Rosalind by Colin Sauze, 1st March 2019
 
-We did all the examples from the (Python Village)[http://rosalind.info/problems/list-view/?location=python-village] and did (counting DNA nucleotides)[http://rosalind.info/problems/dna/] from the Bioinformatics Stronghold.
+We did all the examples from the [Python Village](http://rosalind.info/problems/list-view/?location=python-village) and did [counting DNA nucleotides](http://rosalind.info/problems/dna/) from the Bioinformatics Stronghold.
 
 # Unit testing by Max Friedersdorff, 15th March 2019
 
 Examples and notes available from [https://git.friedersdorff.com/max/python_unittesting](https://git.friedersdorff.com/max/python_unittesting)
+
+# Structuring and Refactoring Python Code by Colin Sauze, 29th March 2019
+
+Notes available from [https://github.com/colinsauze/structuring_python/raw/master/Structuring%20Python.pdf](https://github.com/colinsauze/structuring_python/raw/master/Structuring%20Python.pdf)
