@@ -8,7 +8,7 @@
 | 15th March | Max (maf54) | Unit testing |
 | 29th March | Colin (cos) | structuring code |
 | 10th May | Colin (cos) | More problem solving from Rosalind |
-| (tbc) | Max (maf54) |  List/Dictionary comprehensions and generators |
+| 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
 | (tbc) | Osian (odr1) | Machine learning with SciKitLearn |
 
 
