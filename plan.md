@@ -32,3 +32,6 @@
 * anaconda/conda
 * notebooks
 * machine learning with scikitlearn 
+* GUIs
+* command line parsing
+* flask and web servers
