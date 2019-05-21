@@ -9,8 +9,9 @@
 | 29th March | Colin (cos) | structuring code |
 | 10th May | Colin (cos) | More problem solving from Rosalind |
 | 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
-| (tbc) | Osian (odr1) | Machine learning with SciKitLearn |
-
+| 7th June (timetable week 40) | tbc | tbc |
+| 21st June (timetable week 42) | tbc | tbc |
+| 5th July (timetable week 44) | tbc | tbc |
 
 # Things we want to know more about
 
