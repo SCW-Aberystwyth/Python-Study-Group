@@ -18,3 +18,12 @@ Examples and notes available from [https://git.friedersdorff.com/max/python_unit
 # Structuring and Refactoring Python Code by Colin Sauze, 29th March 2019
 
 Notes available from [https://github.com/colinsauze/structuring_python/raw/master/Structuring%20Python.pdf](https://github.com/colinsauze/structuring_python/raw/master/Structuring%20Python.pdf)
+
+# More Rosalind Problems by Colin Sauze, 10th May 2019
+
+[Transcribing DNA into RNA](http://rosalind.info/problems/rna/)
+[Counting Point Mutations](http://rosalind.info/problems/hamm/)
+
+# List and Dictionary Comprehensions and Generators, Max Freidersdorff, 24th May 2019
+
+Notes and exercises available from [https://git.friedersdorff.com/max/comprehensions_and_generators](https://git.friedersdorff.com/max/comprehensions_and_generators)
