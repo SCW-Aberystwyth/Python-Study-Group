@@ -9,15 +9,15 @@
 | 29th March | Colin (cos) | structuring code |
 | 10th May | Colin (cos) | More problem solving from Rosalind |
 | 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
-| 7th June (timetable week 40) | tbc | tbc |
+| 7th June | Colin (cos) | GUIs with Kivy |
 | 21st June (timetable week 42) | tbc | tbc |
 | 5th July (timetable week 44) | tbc | tbc |
+| 19th July (timetable week 46) | Nick (nid16) and Aga (alg13) | Virtualenv and Jyputer Notebooks |
 
 # Things we want to know more about
 
+## Covered Already
 * Matplotlib 
-* Seaborn
-* MPI
 * Generators
 * list/dictionary comprehensions
 * lambdas
@@ -28,11 +28,15 @@
 * unit testing
 * structuring code, pep8 
 * zen of python
+* GUIs
+
+## Not Covered yet
+* Seaborn
+* MPI
 * databases
 * package management, pip and virtualenv
 * anaconda/conda
 * notebooks
 * machine learning with scikitlearn 
-* GUIs
 * command line parsing
 * flask and web servers
