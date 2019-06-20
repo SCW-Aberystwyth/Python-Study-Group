@@ -27,3 +27,7 @@ Notes available from [https://github.com/colinsauze/structuring_python/raw/maste
 # List and Dictionary Comprehensions and Generators, Max Freidersdorff, 24th May 2019
 
 Notes and exercises available from [https://git.friedersdorff.com/max/comprehensions_and_generators](https://git.friedersdorff.com/max/comprehensions_and_generators)
+
+# GUIs with Kivy, Colin Sauze, June 7th 2019
+
+Notes and examples available from [https://github.com/colinsauze/kivy-tutorial](https://github.com/colinsauze/kivy-tutorial)
