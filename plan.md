@@ -10,7 +10,7 @@
 | 10th May | Colin (cos) | More problem solving from Rosalind |
 | 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
 | 7th June | Colin (cos) | GUIs with Kivy |
-| 21st June (timetable week 42) | tbc | tbc |
+| 21st June (timetable week 42) | cancelled | cancelled |
 | 5th July (timetable week 44) | tbc | tbc |
 | 19th July (timetable week 46) | Nick (nid16) and Aga (agj13) | Virtualenv and Jyputer Notebooks |
 
