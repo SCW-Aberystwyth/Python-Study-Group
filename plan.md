@@ -11,7 +11,7 @@
 | 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
 | 7th June | Colin (cos) | GUIs with Kivy |
 | 21st June (timetable week 42) | cancelled | cancelled |
-| 5th July (timetable week 44) | tbc | tbc |
+| 5th July (timetable week 44) | Max (maf54) | Data analysis and plotting (working title) |
 | 19th July (timetable week 46) | Nick (nid16) and Aga (agj13) | Virtualenv and Jyputer Notebooks |
 
 # Things we want to know more about
