@@ -5,7 +5,7 @@ A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python pr
 
 ## When/where does the group meet?
 * After this we'll meet every other Friday at 3:10pm in the [G24 computer room](https://www.aber.ac.uk/en/timetable/zones/penglais/cledwyn/g24/) in the Cledwyn building.
-* The dates for the 2019 summer term are Fridays May 10th, May 24th, June 7th, June 21st and July 5th. 
+* The dates for the Summer 2019 are Fridays July 19th and August 2nd. We'll probably take a break for the rest of August and then resume in September. 
 
 ## How does it work?
 At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan](plan) for a list of sessions currently planned. 
@@ -21,3 +21,6 @@ This is best answered at [Hacky Hour](http://tinyurl.com/HackyHourAber) instead 
 
 ## Do you have notes from previous sessions.
 Yes, see the [notes](notes) page.
+
+## Where can I get announcements of upcoming sessions?
+Upcoming sessions will be announced on the Hacky Hour mailing list, [Twitter](https://www.twitter.com/HackyHourAber) and [Facebook](https://www.facebook.com/HackyHourAber) pages.
