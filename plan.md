@@ -13,6 +13,7 @@
 | 21st June (timetable week 42) | cancelled | cancelled |
 | 5th July (timetable week 44) | Max (maf54) | Data analysis and plotting (working title) |
 | 19th July (timetable week 46) | Nick (nid16) and Aga (agj13) | Virtualenv and Jyputer Notebooks |
+| 2nd August (timetable week 48) | TBC | TBC, possibly Numba or using NVidia GPUs |
 
 # Things we want to know more about
 
