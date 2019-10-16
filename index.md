@@ -4,8 +4,10 @@
 A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python programming language in their research. The group aims to offer peer support to help explore the many useful features of Python and go beyond the basics.
 
 ## When/where does the group meet?
-* After this we'll meet every other Friday at 3:10pm in the [G24 computer room](https://www.aber.ac.uk/en/timetable/zones/penglais/cledwyn/g24/) in the Cledwyn building.
-* The dates for the Summer 2019 are Fridays July 19th and August 2nd. We'll probably take a break for the rest of August and then resume in September. 
+* Friday November 8th, 4:10pm, C66 Hugh Owen
+* Friday November 22nd, 4:10pm, C66 Hugh Owen
+* Friday December 6th, 4:10pm, C66 Hugh Owen
+* Friday December 20th, 4:10pm, C66 Hugh Owen
 
 ## How does it work?
 At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan](plan) for a list of sessions currently planned. 
