@@ -6,8 +6,7 @@ A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python pr
 ## When/where does the group meet?
 * Friday November 8th, 4:10pm, C66 Hugh Owen
 * Friday November 22nd, 4:10pm, C66 Hugh Owen
-* Friday December 6th, 4:10pm, C66 Hugh Owen
-* Friday December 20th, 4:10pm, C66 Hugh Owen
+* Friday December 6th, 2:10pm, G24 Cledwyn
 
 ## How does it work?
 At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan](plan) for a list of sessions currently planned. 
