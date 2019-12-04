@@ -3,9 +3,7 @@
 ## What is the Python Study Group
 A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python programming language in their research. The group aims to offer peer support to help explore the many useful features of Python and go beyond the basics.
 
-## When/where does the group meet?
-* Friday November 8th, 4:10pm, C66 Hugh Owen
-* Friday November 22nd, 4:10pm, C66 Hugh Owen
+## When/where does the group next meet?
 * Friday December 6th, 2:10pm, G24 Cledwyn
 
 ## How does it work?
