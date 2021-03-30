@@ -13,7 +13,7 @@ At each meeting we'll pick a different topic and discuss it or get somebody more
 No, this is intended for anyone with at least basic knowledge of Python. Those with more advanced knowledge are invited to attend and share what they know with the group. 
 
 ## I don't know any Python but would like to learn some
-Python workshops run periodically, please check [SCW courses page](http://tinyurl.com/) for updates. Python learning materials are on the [resources](resources) page.
+Python workshops run periodically, please check [SCW courses page](http://tinyurl.com/) for updates. Python learning materials are on the [notes](notes) page.
 
 ## I need help with a specific problem in my Python code.
 This is best answered at [Hacky Hour](http://tinyurl.com/HackyHourAber) instead of the study group. Hacky Hour runs on alternate weeks to the study group and is intended for getting help with any research computing related problems, including Python programming.
