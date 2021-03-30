@@ -4,7 +4,7 @@
 A group for anyone at Aberystwyth who uses (or needs/wants to use) the Python programming language in their research. The group aims to offer peer support to help explore the many useful features of Python and go beyond the basics.
 
 ## When/where does the group next meet?
-* Friday December 6th, 2:10pm, G24 Cledwyn
+None planned right now.
 
 ## How does it work?
 At each meeting we'll pick a different topic and discuss it or get somebody more knowledgable to talk about it. See the [plan](plan) for a list of sessions currently planned. 
