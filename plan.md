@@ -2,18 +2,18 @@
 
 | Date | Name | Topic |
 | ---- | ---- | ----- |
-| 31st Jan | Max (maf54) | Plotting with Maplotlib |
-| 15th Feb | Richard (rig12) | basic debugging |
-| 1st March | Colin (cos) |  problem solving from Rosalind |
-| 15th March | Max (maf54) | Unit testing |
-| 29th March | Colin (cos) | structuring code |
-| 10th May | Colin (cos) | More problem solving from Rosalind |
-| 24th May | Max (maf54) |  List/Dictionary comprehensions and generators |
-| 7th June | Colin (cos) | GUIs with Kivy |
-| 21st June (timetable week 42) | cancelled | cancelled |
-| 5th July (timetable week 44) | Max (maf54) | Data analysis and plotting (working title) |
-| 19th July (timetable week 46) | Nick (nid16) and Aga (agj13) | Virtualenv and Jyputer Notebooks |
-| 2nd August (timetable week 48) | TBC | TBC, possibly Numba or using NVidia GPUs |
+| 31st Jan 2019 | Max (maf54) | Plotting with Maplotlib |
+| 15th Feb 2019 | Richard (rig12) | basic debugging |
+| 1st March 2019 | Colin (cos) |  problem solving from Rosalind |
+| 15th March 2019 | Max (maf54) | Unit testing |
+| 29th March 2019 | Colin (cos) | structuring code |
+| 10th May 2019 | Colin (cos) | More problem solving from Rosalind |
+| 24th May 2019 | Max (maf54) |  List/Dictionary comprehensions and generators |
+| 7th June 2019 | Colin (cos) | GUIs with Kivy |
+| 21st June (timetable week 42) 2019 | cancelled | cancelled |
+| 5th July (timetable week 44) 2019 | Max (maf54) | Data analysis and plotting (working title) |
+| 19th July (timetable week 46) 2019 | Nick (nid16) and Aga (agj13) | Virtualenv and Jyputer Notebooks |
+| 2nd August (timetable week 48) 2019 | TBC | TBC, possibly Numba or using NVidia GPUs |
 
 # Things we want to know more about
 
